@@ -1,0 +1,12 @@
+@use "./abstracts/colors";
+
+body{
+    min-height: 100vh;
+    padding: 4rem;
+    background: linear-gradient(#FF2E63,#08D9D6, #FF2E63, #08D9D6 );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
